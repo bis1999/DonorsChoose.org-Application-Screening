@@ -38,7 +38,9 @@ I used various Models such as Naive Bayes, LSTM, Descion Tree, Xgboost. Followin
 |       TFIDF W2V+Response coding        | XGboost | max_depth :3 ,colsample_bytree :0.1 | 0.6029916604726717 |
 +----------------------------------------+---------+-------------------------------------+--------------------+
 ```
-**LSTM**
-In LSTM I used two Models 
-[<img src="image.png" width="250"/>](image.png)
 
+#### LSTM
+In LSTM I used two Models </br>
+**model1**
+[<img src="68747470733a2f2f692e696d6775722e636f6d2f666b51386e476f2e706e67.png"/>](68747470733a2f2f692e696d6775722e636f6d2f666b51386e476f2e706e67.png)
+**model2**
