@@ -42,5 +42,9 @@ I used various Models such as Naive Bayes, LSTM, Descion Tree, Xgboost. Followin
 #### LSTM
 In LSTM I used two Models </br>
 **model1**
-[<img src="68747470733a2f2f692e696d6775722e636f6d2f666b51386e476f2e706e67.png"/>](68747470733a2f2f692e696d6775722e636f6d2f666b51386e476f2e706e67.png)
+
+[<img src="model1.png"/>](model1.png)
+</br>
+
 **model2**
+[<img src="68747470733a2f2f692e696d6775722e636f6d2f666b51386e476f2e706e67.png"/>](68747470733a2f2f692e696d6775722e636f6d2f666b51386e476f2e706e67.png)
